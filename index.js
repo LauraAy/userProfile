@@ -91,7 +91,7 @@ ${tests}
 If you have any questions about the repo, open an issue or contact [${data.github}](${data.url}) directly at ${data.email}.
 
 `
-    fs.writeFile('profile.md', readme, e => e ? console.log(e) : null) 
+    fs.writeFile('README.md', readme, e => e ? console.log(e) : null) 
   })
   .catch(e => console.error(e))
 })
