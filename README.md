@@ -1,4 +1,4 @@
-Provenance Online Project
+# Provenance Online Project
 ## Description
 This is a digital project to crowdsource identifications of provenance marks (bookplates, inscriptions, stamps, bindings, and more) to help identify past owners of historic books.
 ## Table of Contents 
